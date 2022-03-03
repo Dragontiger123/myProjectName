@@ -11,7 +11,7 @@ public class JavaTest02 {
 		System.out.println("\n");
 		//큰따옴표(" ")는 문자열(String)을 감싸는 기호이고
 	    //작은따옴표(' ')는 문자(Character)를 감싸는 기호이다
-		
+		//
 		/*
 		 * 문제2
 		 * 키워드 : public , class, void
